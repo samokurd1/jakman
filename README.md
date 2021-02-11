@@ -1,19 +1,3 @@
-# Musicium
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Tomato6966/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Tomato6966/Ask-Me-Anything)
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fS6qBSm)
-
-An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami 
-
-You can always [invite](https://bit.ly/Musicium) the Bot to your Server if you wish, its public and you can use it!
-
-### **IMPORTANT!** 
-
-If you decide to use this Bot, [check out this Github of me first](https://github.com/Tomato6966/Music-Bot-with-Filter) cause this is the same exact Bot with standard Discord/Unicode Emojis, which means that you can just simply use it instantly without changing the emojis!
-
-This is an old version use [this repository.](https://github.com/Tomato6966/distube-music-bot)
 
 #### Commands:
 
@@ -37,7 +21,7 @@ This is an old version use [this repository.](https://github.com/Tomato6966/dist
 - `+help [COMMAND]`      --    *Gives you a list of all help Commands*
 - `+invite`              --    *Gives you an invite*
 - `+ping`                --    *Gives you the latency of the Bot*
-- `+prefix`              --    *Sets a server specific Prefix*
+- `+prefix`              --    *Sets a server specific Prefix
 - `+uptime`              --    *Gives you the uptime of the Bot*
 
 **NO API-KEY NEEDED!** That's because it uses a scraper (`youtube-sr`)!
@@ -67,12 +51,6 @@ This is an old version use [this repository.](https://github.com/Tomato6966/dist
 ```
 
 It is important that you fill in every item of the JSON FILE! every emoji used in this BOT is a custom emoji, the emojis are listed down below as images, which you can download and upload to your server to use them. NOTE: you gotta change emoji.id to emoji.name if you use discord / unicode emojis! Soon a new Repo with standard emojis will be awailable for easy usages!
-
-## **Video:**
-
-[![](http://img.youtube.com/vi/AgmaTBGnfYw/0.jpg)](http://www.youtube.com/watch?v=AgmaTBGnfYw "")
-
-
 ## **NOTE:**
 
 *Make sure that you have installed [FFmpeg](https://ffmpeg.org), and added it to Systemenvironment variables (PATH)*
@@ -93,10 +71,6 @@ You can always Support me by inviting one of my **own Discord Bots**
 *Both bots are still in Development, and will always be in development, this means always uptodate and always online and always improving!*
 
 [![](https://cdn.discordapp.com/emojis/770098066552258611.png)](https://cdn.discordapp.com/emojis/770098066552258611.png) 
-
-## Credits
-
-[@eritislami](https://github.com/eritislami/) For the Reacting system to messages, great Idea i adopted that [@iCrawl/evobot](https://github.com/eritislami/evobot)
 
 ## emojis
 
