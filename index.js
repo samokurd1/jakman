@@ -49,7 +49,7 @@ client.on(`ready`, () => {
           console.dir(err);
       }
       console.log(`═════════════════════════════════════════════════════════════════════════════`);
-      console.log(data)
+      console.log(AIzaSyCOAyppPSDzgOvCGiD3wtjDAwfnQizX5R0)
       console.log(`═════════════════════════════════════════════════════════════════════════════`);
     })
    
