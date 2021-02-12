@@ -24,7 +24,7 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
       .setTitle(`List of all commands`)
       .setDescription("__**```List of all commands```**__")
-       .setImage('https://cdn.discordapp.com/attachments/770233044392607776/788173412123934720/ab45bb4451536652faca51ae4f42d5dd.gif')
+       .setImage('https://cdn.discordapp.com/attachments/803387187965198417/809597243418083348/7d20.gif')
        .setFooter(message.author.username, message.author.displayAvatarURL)
        .setDescription(`**[  SUPPORT  ](https://discord.gg/teVYYBkWQQ)**   -  [   INVITE   ](https://discord.com/api/oauth2/authorize?client_id=786684790190768188&permissions=8&scope=bot)`)
       .setThumbnail(message.author.avatarURL)
