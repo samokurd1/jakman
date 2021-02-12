@@ -15,6 +15,16 @@ const {
 ////////////////////////////
 //////COMMAND BEGIN/////////
 ////////////////////////////
+ //define the help embed
+let playEmbed = new MessageEmbed()
+.setImage('https://cdn.discordapp.com/attachments/803387187965198417/809599758700118056/NPcm.gif')
+.setTitle(`List of all commands`)
+.setDescription("__**```List of all commands```**__")
+.setFooter(message.author.username, message.author.displayAvatarURL)
+.setColor('RANDOM')
+////////////////////////////
+//////COMMAND BEGIN/////////
+////////////////////////////
 module.exports = {
   async play(song, message, client, filters) {
     //get the queue!
