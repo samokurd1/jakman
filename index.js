@@ -95,7 +95,26 @@ client.on(`message`, async (message) => {
     message.channel.send(embed)
   }
 
+////////
 
+client.on("message", msg => {
+  if (msg.content === "Slaw") {
+    msg.reply(
+      "سلاوبەخێربێی بۆ سێرفەرەکەمان تکایەچاوەرێکە تارۆل بەدەستێک دێتە خەت"
+    );
+  }
+});
+   ////////
+
+client.on("message", msg => {
+  if (msg.content === "سڵاو") {
+    msg.reply(
+      "سلاوبەخێربێی بۆ سێرفەرەکەمان تکایەچاوەرێکە تارۆل بەدەستێک دێتە خەت"
+    );
+  }
+});
+
+//////
 //command Handler DO NOT TOUCH
  const prefixRegex = new RegExp(`^(<@!?${client.user.id}>|${escapeRegex(prefix)})\\s*`);
  if (!prefixRegex.test(message.content)) return;
